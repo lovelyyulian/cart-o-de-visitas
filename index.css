@@ -2,6 +2,7 @@ body{
   font-family: arial;
   background-image: url("wallpaper.gif");
   background-size: cover;
+  background-repeat: no-repeat;
 }
 
 h1{
