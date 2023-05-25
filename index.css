@@ -3,7 +3,7 @@ body{
   background-image: url("wallpaper.gif");
   width: 100vw;
   height: 100vh;
-  repeat: no-repeat;
+  background-repeat: no-repeat;
 }
 
 h1{
