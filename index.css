@@ -1,8 +1,7 @@
 body{
   font-family: arial;
-  height: 100vw;
-  width: 100vh;
   background-image: url("wallpaper.gif");
+  background-size: cover;
 }
 
 h1{
