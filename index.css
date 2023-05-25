@@ -3,6 +3,7 @@ body{
   background-image: url("wallpaper.gif");
   background-size: cover;
   background-repeat: no-repeat;
+  margin: 0;
 }
 
 h1{
