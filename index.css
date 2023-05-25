@@ -1,5 +1,6 @@
 body{
   font-family: arial;
+  width: 100vw;
   background-image: url("wallpaper.gif");
   background-size: cover;
 }
