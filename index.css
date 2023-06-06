@@ -64,6 +64,44 @@ h1{
   backdrop-filter: blur(10px);
 }
 
+#languageBtn {
+    position: fixed;
+    background-image: url("world.png");
+    background-color: rgba(96, 209, 209, 0.521);
+    backdrop-filter: blur(10px);
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 100%;
+    padding: 10px;
+    left: 92%;
+    bottom: 2%;
+    cursor: pointer;
+}
+
+#languageSettings {
+    position: relative;
+    background-color: rgba(0, 139, 139, 0.267);
+    backdrop-filter: blur(10px);
+    width: 250px;
+    height: 250px;
+    border-radius: 24px;
+    padding: 24px;
+    border: 1px solid white;
+    margin: auto;
+    margin-top: 15%;
+    text-align: center;
+    display: none;
+}
+#languageOptions {
+    position: absolute;
+    width: 60%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 footer{
   width: 100%;
   height: 60px;
