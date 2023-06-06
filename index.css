@@ -65,7 +65,7 @@ h1{
 }
 
 #languageBtn {
-    position: fixed;
+    position: sticky;
     background-image: url("world.png");
     background-color: rgba(96, 209, 209, 0.521);
     backdrop-filter: blur(10px);
